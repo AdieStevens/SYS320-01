@@ -1,0 +1,100 @@
+#TYPE System.IO.FileInfo
+"PSPath","PSParentPath","PSChildName","PSDrive","PSProvider","PSIsContainer","Mode","VersionInfo","BaseName","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\ChamplainRun.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","ChamplainRun.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\ChamplainRun.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ChamplainRun","System.Collections.Generic.List`1[System.String]",,"ChamplainRun.ps1","236","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\ChamplainRun.ps1",".ps1","1/26/2024 10:57:25 AM","1/26/2024 3:57:25 PM","1/26/2024 10:57:25 AM","1/26/2024 3:57:25 PM","1/26/2024 10:57:25 AM","1/26/2024 3:57:25 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\DHCP_server_IP.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","DHCP_server_IP.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\DHCP_server_IP.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DHCP_server_IP","System.Collections.Generic.List`1[System.String]",,"DHCP_server_IP.ps1","133","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\DHCP_server_IP.ps1",".ps1","1/26/2024 12:35:27 PM","1/26/2024 5:35:27 PM","1/26/2024 12:35:27 PM","1/26/2024 5:35:27 PM","1/26/2024 12:35:27 PM","1/26/2024 5:35:27 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\DNS_Server_IP.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","DNS_Server_IP.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\DNS_Server_IP.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","DNS_Server_IP","System.Collections.Generic.List`1[System.String]",,"DNS_Server_IP.ps1","126","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\DNS_Server_IP.ps1",".ps1","1/26/2024 12:35:32 PM","1/26/2024 5:35:32 PM","1/26/2024 12:35:32 PM","1/26/2024 5:35:32 PM","1/26/2024 12:35:32 PM","1/26/2024 5:35:32 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\Ipv4Address_Prefix.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","Ipv4Address_Prefix.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\Ipv4Address_Prefix.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Ipv4Address_Prefix","System.Collections.Generic.List`1[System.String]",,"Ipv4Address_Prefix.ps1","164","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\Ipv4Address_Prefix.ps1",".ps1","1/26/2024 12:35:16 PM","1/26/2024 5:35:16 PM","1/26/2024 12:35:16 PM","1/26/2024 5:35:16 PM","1/26/2024 12:35:16 PM","1/26/2024 5:35:16 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\listing_outfolder.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","listing_outfolder.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\listing_outfolder.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","listing_outfolder","System.Collections.Generic.List`1[System.String]",,"listing_outfolder.ps1","315","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\listing_outfolder.ps1",".ps1","2/2/2024 11:17:44 AM","2/2/2024 4:17:44 PM","2/2/2024 11:29:43 AM","2/2/2024 4:29:43 PM","2/2/2024 11:29:43 AM","2/2/2024 4:29:43 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\listing_ps1_files.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","listing_ps1_files.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\listing_ps1_files.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","listing_ps1_files","System.Collections.Generic.List`1[System.String]",,"listing_ps1_files.ps1","259","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\listing_ps1_files.ps1",".ps1","2/2/2024 10:45:44 AM","2/2/2024 3:45:44 PM","2/2/2024 10:45:44 AM","2/2/2024 3:45:44 PM","2/2/2024 10:45:44 AM","2/2/2024 3:45:44 PM","Archive"
+"Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts\Win32_Library.ps1","Microsoft.PowerShell.Core\FileSystem::C:\Users\champuser\Desktop\Scripts","Win32_Library.ps1","C","Microsoft.PowerShell.Core\FileSystem","False","-a----","File:             C:\Users\champuser\Desktop\Scripts\Win32_Library.ps1
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","Win32_Library","System.Collections.Generic.List`1[System.String]",,"Win32_Library.ps1","93","C:\Users\champuser\Desktop\Scripts","C:\Users\champuser\Desktop\Scripts","False","True","C:\Users\champuser\Desktop\Scripts\Win32_Library.ps1",".ps1","1/26/2024 12:35:22 PM","1/26/2024 5:35:22 PM","1/26/2024 12:35:22 PM","1/26/2024 5:35:22 PM","1/26/2024 12:35:22 PM","1/26/2024 5:35:22 PM","Archive"
