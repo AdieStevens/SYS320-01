@@ -9,3 +9,4 @@ $ipCounts = Get-FilteredIPsAndCount -PageName $pageVisited -ResponseCode $httpCo
 $ipsoften = $ipCounts | Where-Object { $_.Name -ilike "10.*" }
 $ipsoften
 
+. .\parsing.ps1
